@@ -23,7 +23,7 @@
 .bg-img {
   min-height: 150px;
   padding-top: 4em;
-  background-image: url(./img/bg-img2.jpg);
+  background-image: url(../img/bg-img2.jpg);
   background-size: cover;
   background-position: 100% 60%;
   background-repeat: no-repeat;
